@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
-![image](https://github.com/user-attachments/assets/a8a75158-a5df-461e-90ae-f60ff3f75987)
+![127 0 0 1_5500_index html (1)](https://github.com/user-attachments/assets/122172f3-24ec-4d16-94ad-3f4b88dd78dc)
 
 ## Welcome! 👋
 
